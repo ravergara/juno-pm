@@ -5,17 +5,17 @@
 ## Prototype link
 
 _The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
-
+https://lovable.dev/projects/2028aba3-5ede-4fb2-a11e-31b7dc6a08d5
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+Prioritization
 
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** Allow product managers to prioritize
+- **What broke / felt like a toy:** Nothing that I observed.
+- **What I'd change next pass:** More intuitive for the product manager.
